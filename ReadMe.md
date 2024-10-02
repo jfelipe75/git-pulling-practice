@@ -1,2 +1,3 @@
-Hello Caleb, Welcome to our Repo
+Hello Caleb, Welcome to our Repo.
+Keep up the grind!
 
